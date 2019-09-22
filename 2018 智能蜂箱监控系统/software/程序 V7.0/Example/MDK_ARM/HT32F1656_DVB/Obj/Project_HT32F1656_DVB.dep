@@ -1,0 +1,1994 @@
+Dependencies for Project 'Project', Target 'HT32F1656_DVB': (DO NOT MODIFY !)
+F (..\main.c)(0x5AFE7155)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\main.o --omf_browse .\ht32f1656_dvb\obj\main.crf --depend .\ht32f1656_dvb\obj\main.d)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\INCLUDE.c)(0x5AF689B4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\include.o --omf_browse .\ht32f1656_dvb\obj\include.crf --depend .\ht32f1656_dvb\obj\include.d)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\DELAY.c)(0x5ACC8269)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\delay.o --omf_browse .\ht32f1656_dvb\obj\delay.crf --depend .\ht32f1656_dvb\obj\delay.d)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+F (..\UART.c)(0x5AFE7888)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\uart.o --omf_browse .\ht32f1656_dvb\obj\uart.crf --depend .\ht32f1656_dvb\obj\uart.d)
+I (..\UART.h)(0x5AFE725D)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\INIT.c)(0x5AFE745E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\init.o --omf_browse .\ht32f1656_dvb\obj\init.crf --depend .\ht32f1656_dvb\obj\init.d)
+I (..\INIT.h)(0x5AF67A09)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\ht32f1655_56_it.c)(0x5AF69662)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_it_1.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_it_1.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_it_1.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (..\UART.h)(0x5AFE725D)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\ht32f1655_56_conf.h)(0x58C11227)()
+F (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)()
+F (..\MDK_ARM\ht32f1655_56_op.s)(0x5253A2F6)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "USE_HT32F1655_56 SETA 1"--list .\ht32f1656_dvb\list\ht32f1655_56_op.lst --xref -o .\ht32f1656_dvb\obj\ht32f1655_56_op.o --depend .\ht32f1656_dvb\obj\ht32f1655_56_op.d)
+F (.\HT32F1655_56_DebugSupport.ini)(0x53BE1658)()
+F (..\system_ht32f1655_56.c)(0x5436295A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\system_ht32f1655_56.o --omf_browse .\ht32f1656_dvb\obj\system_ht32f1655_56.crf --depend .\ht32f1656_dvb\obj\system_ht32f1655_56.d)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (.\startup_ht32f1655_56.s)(0x53EB42E8)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "USE_HT32F1655_56 SETA 1"--list .\ht32f1656_dvb\list\startup_ht32f1655_56.lst --xref -o .\ht32f1656_dvb\obj\startup_ht32f1655_56.o --depend .\ht32f1656_dvb\obj\startup_ht32f1655_56.d)
+F (..\..\library\HT32_USBD_Library\src\ht32_usbd_core.c)(0x540FE8CE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32_usbd_core.o --omf_browse .\ht32f1656_dvb\obj\ht32_usbd_core.crf --depend .\ht32f1656_dvb\obj\ht32_usbd_core.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32_cm3_misc.c)(0x53FC4376)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32_cm3_misc.o --omf_browse .\ht32f1656_dvb\obj\ht32_cm3_misc.crf --depend .\ht32f1656_dvb\obj\ht32_cm3_misc.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_adc.c)(0x53F32FB0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_adc.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_adc.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_adc.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_bftm.c)(0x543ADA8A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_bftm.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_bftm.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_bftm.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_ckcu.c)(0x543ADAC4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_ckcu.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_ckcu.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_ckcu.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_cmp_op.c)(0x5435F9F8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_cmp_op.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_cmp_op.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_cmp_op.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_crc.c)(0x53ECE8EC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_crc.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_crc.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_crc.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_ebi.c)(0x543ADB00)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_ebi.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_ebi.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_ebi.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_exti.c)(0x53ECE8EC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_exti.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_exti.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_exti.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_flash.c)(0x544A6C40)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_flash.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_flash.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_flash.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_gpio.c)(0x543BA49E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_gpio.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_gpio.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_gpio.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_gptm.c)(0x543ADB30)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_gptm.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_gptm.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_gptm.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_i2c.c)(0x543ADB66)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_i2c.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_i2c.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_i2c.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_i2s.c)(0x53F32FB0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_i2s.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_i2s.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_i2s.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_mctm.c)(0x543ADB7C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_mctm.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_mctm.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_mctm.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_pdma.c)(0x53ECE8EC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_pdma.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_pdma.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_pdma.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_pwrcu.c)(0x53ECE8EC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_pwrcu.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_pwrcu.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_pwrcu.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_rstcu.c)(0x53F32FB0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_rstcu.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_rstcu.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_rstcu.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_rtc.c)(0x543522CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_rtc.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_rtc.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_rtc.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_sci.c)(0x53F32FB0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_sci.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_sci.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_sci.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_spi.c)(0x543ADB9A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_spi.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_spi.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_spi.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_usart.c)(0x5AC633D8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_usart.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_usart.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_usart.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_usbd.c)(0x53FECC2C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_usbd.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_usbd.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_usbd.d)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdchk.h)(0x544A6C9A)
+F (..\..\library\HT32F1655_56_Driver\src\ht32f1655_56_wdt.c)(0x543ADBB6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32f1655_56_wdt.o --omf_browse .\ht32f1656_dvb\obj\ht32f1655_56_wdt.crf --depend .\ht32f1656_dvb\obj\ht32f1655_56_wdt.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\library\HT32F1655_56_Driver\src\ht32_retarget.c)(0x58C11227)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32_retarget.o --omf_browse .\ht32f1656_dvb\obj\ht32_retarget.crf --depend .\ht32f1656_dvb\obj\ht32_retarget.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (Z:\Software\Keil5\ARM\ARMCC\include\rt_misc.h)(0x5475F300)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+F (..\..\library\HT32F1655_56_Driver\src\ht32_serial.c)(0x59C10D1E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32_serial.o --omf_browse .\ht32f1656_dvb\obj\ht32_serial.crf --depend .\ht32f1656_dvb\obj\ht32_serial.d)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (..\..\library\HT32F1655_56_Driver\src\ht32_retarget_desc.c)(0x543ADA44)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_desc.h)(0x53F32FB0)
+F (..\readme.txt)(0x53ECD234)()
+F (..\..\usart\usart_int.c)(0x5AC62A87)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\usart_int.o --omf_browse .\ht32f1656_dvb\obj\usart_int.crf --depend .\ht32f1656_dvb\obj\usart_int.d)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+F (..\..\HARDWARE\HX711.c)(0x5AFFE32D)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\hx711.o --omf_browse .\ht32f1656_dvb\obj\hx711.crf --depend .\ht32f1656_dvb\obj\hx711.d)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\..\HARDWARE\DS18B20.c)(0x5AFE7155)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ds18b20.o --omf_browse .\ht32f1656_dvb\obj\ds18b20.crf --depend .\ht32f1656_dvb\obj\ds18b20.d)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\..\HARDWARE\KEY.c)(0x5AF191C2)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\key.o --omf_browse .\ht32f1656_dvb\obj\key.crf --depend .\ht32f1656_dvb\obj\key.d)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\..\HARDWARE\MOTOR.c)(0x5AD5E036)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\motor.o --omf_browse .\ht32f1656_dvb\obj\motor.crf --depend .\ht32f1656_dvb\obj\motor.d)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\..\HARDWARE\PWM.c)(0x5ADEB522)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\pwm.o --omf_browse .\ht32f1656_dvb\obj\pwm.crf --depend .\ht32f1656_dvb\obj\pwm.d)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\..\HARDWARE\ADC.c)(0x5AF6932C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\adc.o --omf_browse .\ht32f1656_dvb\obj\adc.crf --depend .\ht32f1656_dvb\obj\adc.d)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (..\..\HARDWARE\LED.c)(0x5AF18B55)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\led.o --omf_browse .\ht32f1656_dvb\obj\led.crf --depend .\ht32f1656_dvb\obj\led.d)
+I (..\..\HARDWARE\LED.h)(0x5AEEB9EA)
+I (..\INCLUDE.h)(0x5AF6886D)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+I (..\..\usart\usart_int.h)(0x59C4BBEC)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\config.h)(0x5ADEB522)
+I (..\..\HARDWARE\ADC.h)(0x5AF689B4)
+I (..\..\HARDWARE\KEY.h)(0x5AF1919B)
+I (..\..\HARDWARE\PWM.h)(0x5ACDEB1F)
+I (..\UART.h)(0x5AFE725D)
+I (..\..\HARDWARE\MOTOR.h)(0x5ACF3FFD)
+I (..\DELAY.h)(0x5ACC7CE2)
+I (..\INIT.h)(0x5AF67A09)
+I (..\..\HARDWARE\HX711.h)(0x5AE01538)
+I (..\..\HARDWARE\DS18B20.h)(0x5AEEB9EA)
+I (..\..\HARDWARE\spi_flash.h)(0x55F9777C)
+F (.\utilities\ht32_board.c)(0x55F9777A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\ht32_board.o --omf_browse .\ht32f1656_dvb\obj\ht32_board.crf --depend .\ht32f1656_dvb\obj\ht32_board.d)
+I (utilities\HT32_board/ht32f1656_dvb.c)(0x55F9777A)
+I (utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+F (.\utilities\common\i2c_eeprom.c)(0x55F9777A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\i2c_eeprom.o --omf_browse .\ht32f1656_dvb\obj\i2c_eeprom.crf --depend .\ht32f1656_dvb\obj\i2c_eeprom.d)
+I (utilities\common\i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)
+F (.\utilities\common\spi_flash.c)(0x55F9777A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\library\HT32F1655_56_Driver\inc -I..\..\library\CMSIS\Include -I..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\library\HT32_USBD_Library\inc -I..\..\utilities -I.\utilities -I..\..\usart -I..\..\HARDWARE-I D:\My\项目\18-智能蜂箱\HT32蜂箱程序\FX程序\19.上位机通信\Example\MDK_ARM\RTE-I Z:\Software\Keil5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12-I Z:\Software\Keil5\ARM\PACK\Holtek\HT32_DFP\1.0.12\ARM\INC\Holtek\HT32F1xxxx-D__UVISION_VERSION="514" -D_RTE_ -DUSE_HT32F1655_56 -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB-o .\ht32f1656_dvb\obj\spi_flash.o --omf_browse .\ht32f1656_dvb\obj\spi_flash.crf --depend .\ht32f1656_dvb\obj\spi_flash.d)
+I (utilities\common\spi_flash.h)(0x55F9777A)
+I (.\utilities\ht32_board.h)(0x55F9777A)
+I (.\utilities\HT32_board/ht32f1656_dvb.h)(0x5AFE445C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32.h)(0x53ECE8EC)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\CMSIS\Include\core_cm3.h)(0x5435F9A2)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\..\library\CMSIS\Include\core_cmInstr.h)(0x5435F9A2)
+I (..\..\library\CMSIS\Include\core_cmFunc.h)(0x5435F9A2)
+I (..\..\library\Device\Holtek\HT32F1655_56\Include\system_ht32f1655_56.h)(0x53ECD3CE)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_lib.h)(0x544A6C9A)
+I (Z:\Software\Keil5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\ht32f1655_56_conf.h)(0x58C11227)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usart.h)(0x5AC6361C)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_spi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_adc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_cmp_op.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gpio.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_exti.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_mctm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_sci.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2s.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_i2c.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbd.h)(0x544A6C9A)
+I (..\ht32f1655_56_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_usbdinit.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_retarget_usbdconf.h)(0x53F32FB0)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_wdt.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rtc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pwrcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_gptm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_bftm.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_flash.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ckcu.h)(0x5AC6309E)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_rstcu.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_crc.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_pdma.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32f1655_56_ebi.h)(0x544A6C9A)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_cm3_misc.h)(0x53ECE8EC)
+I (..\..\library\HT32F1655_56_Driver\inc\ht32_serial.h)(0x53FC4376)
+I (..\..\library\HT32_USBD_Library\inc\ht32_usbd_core.h)(0x540017B6)
+I (.\utilities\common/i2c_eeprom.h)(0x55F9777A)
+I (.\utilities\common/spi_flash.h)(0x55F9777A)
+I (.\utilities\common/ebi_lcd.h)(0x55F9777A)

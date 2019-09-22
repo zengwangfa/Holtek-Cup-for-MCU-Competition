@@ -1,0 +1,24 @@
+#include "LED.h"
+
+
+
+void LED_Init()
+{
+		/************* LED ≥ı ºªØ********************/
+  AFIO_GPxConfig(GPIO_PD, AFIO_PIN_15, AFIO_MODE_DEFAULT);   //LED1   ∞Â‘ÿBLUE
+  AFIO_GPxConfig(GPIO_PD, AFIO_PIN_14, AFIO_MODE_DEFAULT);   //LED2	 ∞Â‘ÿYELLOW
+	AFIO_GPxConfig(GPIO_PD, AFIO_PIN_13, AFIO_MODE_DEFAULT);   //LED3
+  AFIO_GPxConfig(GPIO_PD, AFIO_PIN_12, AFIO_MODE_DEFAULT);   //LED4 
+	
+
+	GPIO_DirectionConfig(HT_GPIOD, GPIO_PIN_15, GPIO_DIR_OUT);
+  GPIO_DirectionConfig(HT_GPIOD, GPIO_PIN_14, GPIO_DIR_OUT);
+	GPIO_DirectionConfig(HT_GPIOD, GPIO_PIN_13, GPIO_DIR_OUT);
+	GPIO_DirectionConfig(HT_GPIOD, GPIO_PIN_12, GPIO_DIR_OUT);
+	
+  GPIO_WriteOutBits(HT_GPIOD, GPIO_PIN_15, SET);  
+	GPIO_WriteOutBits(HT_GPIOD, GPIO_PIN_14, SET); 	
+	GPIO_WriteOutBits(HT_GPIOD, GPIO_PIN_13, SET); 	
+	GPIO_WriteOutBits(HT_GPIOD, GPIO_PIN_12, SET); 
+
+}
