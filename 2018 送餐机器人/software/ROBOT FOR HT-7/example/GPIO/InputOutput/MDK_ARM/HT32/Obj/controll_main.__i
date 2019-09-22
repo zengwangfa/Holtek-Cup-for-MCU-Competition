@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\ -I..\..\..\..\library\HT32F1655_56_Driver\inc -I..\..\..\..\library\CMSIS\Include -I..\..\..\..\library\Device\Holtek\HT32F1655_56\Include -I..\..\..\..\library\HT32_USBD_Library\inc -I..\..\..\..\utilities -I.\made_by_kramo -I.\made_by_kramo -I.\RFID -I.\delay -I..\..\..\..\library -I.\voice -I.\Fuzzy
+-I Z:\Software\Keil5\ARM\RV31\INC
+-I Z:\Software\Keil5\ARM\CMSIS\Include
+-I Z:\Software\Keil5\ARM\Inc\Holtek\HT32F1655_56
+-D__UVISION_VERSION="514" -DUSE_HT32_DRIVER -DUSE_HT32F1656_DVB
+-o .\ht32\obj\controll_main.o --omf_browse .\ht32\obj\controll_main.crf --depend .\ht32\obj\controll_main.d "made_by_kramo\controll_main.c"
